@@ -8,7 +8,7 @@ import { TbBrandGoogleAnalytics } from 'react-icons/Tb'
 
 export const Next=()=>{
     return(
-        <div>
+        <div className="main">
             <div className="left-div">
                 <div className="pro-div">
                     <img src={localStorage.getItem("profilePic")} alt="" />
@@ -30,6 +30,9 @@ export const Next=()=>{
                     <div className="try"><span><TbBrandGoogleAnalytics/></span><p >Analytics</p></div>
                     <div className="try"><span><AiOutlineGift/></span><p >Rewards</p></div>
      
+            </div>
+            <div className="right-div">
+                <h2>Availability</h2>
             </div>
          
            

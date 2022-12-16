@@ -4,6 +4,7 @@
     height: 750px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 10px;
+    font-style: calibri;
 }
 
 .pro-div{
@@ -60,4 +61,18 @@ button{
 span{
     height: 50%;
    
+}
+
+.main{
+    display: flex;
+}
+.main>div:nth-child(2){
+    height: 750px;
+    width: 75%;
+    padding: 20px 30px;
+    border: 1px solid black;
+}
+h2{
+    font-size: 35px;
+    font-style: calibri;
 }
