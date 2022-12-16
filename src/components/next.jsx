@@ -22,17 +22,17 @@ export const Next=()=>{
                     <br />
                     <br />
                     <br />
-                    <div className="try"><span><AiOutlineHome/></span><p >Home</p></div>
-                    <div className="try"><span><FiPhoneCall/></span><p >Call</p></div>
-                    <div className="try"><span><AiOutlineQuestionCircle/></span><p >Queries</p></div>
-                    <div className="try"><span><MdOutlineEventAvailable/></span><p >Availability</p></div>
-                    <div className="try"><span><MdMiscellaneousServices/></span><p >Services</p></div>
-                    <div className="try"><span><TbBrandGoogleAnalytics/></span><p >Analytics</p></div>
-                    <div className="try"><span><AiOutlineGift/></span><p >Rewards</p></div>
+                    <div className="try"><p >Home</p></div>
+                    <div className="try"><p >Call</p></div>
+                    <div className="try"><p >Queries</p></div>
+                    <div className="try"><p >Availability</p></div>
+                    <div className="try"><p >Services</p></div>
+                    <div className="try"><p >Analytics</p></div>
+                    <div className="try"><p >Rewards</p></div>
      
             </div>
             <div className="right-div">
-                <h2>Availability</h2>
+                <h1>Availability</h1>
             </div>
          
            
