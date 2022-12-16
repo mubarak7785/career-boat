@@ -1,9 +1,6 @@
 
 import "./next.css"
-import { AiOutlineHome ,AiOutlineQuestionCircle,AiOutlineGift} from 'react-icons/Ai'
-import { FiPhoneCall } from 'react-icons/Fi'
-import { MdOutlineEventAvailable,MdMiscellaneousServices } from 'react-icons/Md'
-import { TbBrandGoogleAnalytics } from 'react-icons/Tb'
+
 
 
 export const Next=()=>{
