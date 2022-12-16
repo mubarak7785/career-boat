@@ -1,8 +1,9 @@
 .left-div{
     padding: 20px;
     width: 23%;
-    height: 700px;
-    border: 1px solid red;
+    height: 750px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
 }
 
 .pro-div{
@@ -30,9 +31,33 @@ img{
 button{
     margin: auto;
     width: 100%;
-    padding: 15px 30px;
+    padding: 10px 20px;
+    border: 2px solid black;
     font-weight: bold;
     font-size: 20px;
     font-style: calibri;
 
+}
+
+.try{
+    font-weight: calibri;
+    font-size: 25px;
+    margin: auto;
+   
+    display: flex;
+    padding-left: 40px;
+  justify-items: center;
+  align-items: center;
+   height: 10%;
+    gap: 10px;
+
+}
+
+.try:hover{
+    cursor: pointer;
+    background-color: antiquewhite;
+}
+span{
+    height: 50%;
+   
 }
